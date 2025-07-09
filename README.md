@@ -1,5 +1,9 @@
 # 🛡️ Akhil S — Cybersecurity Portfolio
 
+## 🔗 Live Site
+
+🌐iamakhils.netlify.app
+
 Welcome to my personal cybersecurity portfolio — built with HTML, Tailwind CSS, and JavaScript.
 
 ## 👨‍💻 About
@@ -19,9 +23,7 @@ Welcome to my personal cybersecurity portfolio — built with HTML, Tailwind CSS
 - Glassmorphism + neon UI  
 - Contact & project links  
 
-## 🔗 Live Site
 
-[🌐 View Portfolio](https://your-live-link.com)
 
 ## 📬 Contact
 
