@@ -2,7 +2,7 @@
 
 ## 🔗 Live Site
 
-🌐iamakhils.netlify.app
+🌐 https://iamakhils.netlify.app
 
 Welcome to my personal cybersecurity portfolio — built with HTML, Tailwind CSS, and JavaScript.
 
